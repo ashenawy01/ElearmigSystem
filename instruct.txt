@@ -1,0 +1,208 @@
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Sign Up
+Sign up Instructions :
+1- enter your real name (must be more than 2 letters)
+2- Enter your password (the password must include characters and numbers)
+3- Enter a valid department [CS - ENG - BS - ]
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter your password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Sign Up
+Sign up Instructions :
+1- enter your real name (must be more than 2 letters)
+2- Enter your password (the password must include characters and numbers)
+3- Enter a valid department [CS - ENG - BS - ]
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter you r password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Sign Up
+Sign up Instructions :
+1- enter your real name (must be more than 2 letters)
+2- Enter your password (the password must include characters and numbers)
+3- Enter a valid department [CS - ENG - BS - ]
+end of text
+Title : Login
+Login Instruction :
+1- enter your ID
+2- Enter you r password
+Note : in case of you could not login to your account and get (Incorrect ID or password),
+        try to reset your password by entering r, R, Reset or reset
+        or create a new account by entering c, C, Create, or create
+end of text
+Title : Sign Up
+Sign up Instructions :
+1- enter your real name (must be more than 2 letters)
+2- Enter your password (the password must include characters and numbers)
+3- Enter a valid department [CS - ENG - BS - ]
+end of text
